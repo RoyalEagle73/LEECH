@@ -2,8 +2,8 @@
 Program to leech EMAILS and PROXIES:PORT from given link 
 
 
-##How To USE:
-  LINUX : 
+## How To USE:
+  ### LINUX : 
       Requirements:
           1)Re
           2)tkinter
@@ -15,8 +15,8 @@ Program to leech EMAILS and PROXIES:PORT from given link
           3)Run by command "python3 leechv2.0.py" without quotes for python3 users
           4)Run by command "python leechv2.0.py" without quotes for python2 users
 
-  WINDOWS :
+ ### WINDOWS :
           1)Run script in PyCharm or any other python environment
 
 
-Explore "WIKI" section for screenshots
+**Explore "WIKI" section for screenshots**
