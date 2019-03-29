@@ -3,20 +3,13 @@ Program to leech EMAILS and PROXIES:PORT from given link
 
 
 ## How To USE:
-  ### LINUX : 
-      Requirements:
-          1)Re
-          2)tkinter
-          3)python3 or python2
-          4)urllib.request
-      USAGE:
-          1)Open terminal
-          2)Change directory where LEECH.PY is downloaded
-          3)Run by command "python3 leechv2.0.py" without quotes for python3 users
-          4)Run by command "python leechv2.0.py" without quotes for python2 users
+  ### LINUX :
+          1)Download desired version from the respective folder.
+          2)Run the executable file.
 
  ### WINDOWS :
-          1)Run script in PyCharm or any other python environment
+          1)Download the desired script.
+          2)Run script in PyCharm or any other python environment
 
-
+**Scripts added for usage in windows and open-sourcing**
 **Explore "WIKI" section for screenshots**
